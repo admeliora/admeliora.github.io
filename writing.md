@@ -8,6 +8,16 @@ permalink: /writing/
 
 # poetry
 
+* [**Anemia**](https://rustandmoth.com/work/anemia/) in *Rust and Moth*
+* [**Mardi Gras**](https://indianareview.org/2018/04/ir-online-poetry-mardi-gras-by-emily-yin/) in *Indiana Review Online*
+* [**An Incomplete History of Us**](https://therisingphoenixreview.com/2018/06/16/an-incomplete-history-of-us-by-emily-yin/?fbclid=IwAR1y-jlROdPOsMDPRBSiuJqAIlTrNVF6qEkCSzIvys9tGAGF-_5KHvS6sy8) in *Rising Phoenix Review*
+* [**Ether** and **20/30**](https://www.soothswarmjournal.com/copy-of-issue-iv-template-12?fbclid=IwAR11ccGtb2wZnOiTmbHtXs64UD14bNXAUUW8jXPM7WREJQVdrJpEgmJgCZc) in *Sooth Swarm Journal*
+* [**Spangled**](https://connotationpress.com/poetry/3327-emily-yin-poetry?fbclid=IwAR2HzTiW7e7fddK6tWgVvwR70_IXPvKOjgu8aTPwKdCITg4kldvEn01kLxY) in *Connotation Press*
+* [**Vanishing Point**](https://www.yespoetry.com/news/emily-yin?fbclid=IwAR2KxsjRSNAnT1KUUa2RzBg59e65NfcK55bwef-aw5OJuHjSDkajOxHfVcs) in *Yes, Poetry*
+* [**Too Many Bridges to Burn**](http://www.glass-poetry.com/journal/2019/october/yin-too.html?fbclid=IwAR1_C-YG5jD5YPIs8DWW1_mL3v9WuUhE_JDISMsVwSI9L8aZuPN1OxZKmrY) in *Glass: A Journal of Poetry*
+* [**Lessons on Longing**]() in *Asian American Writers' Workshop (The Margins)*
+* [**The Only Story**](http://www.juked.com/2020/06/emily-yin-the-only-story.asp) in *Juked*
+
 # creative nonfiction
 
 * [**To See and Be Seen**](http://www.trackfourjournal.com/emily-yin--to-see-and-be-seen.html) in *Track Four Journal*
