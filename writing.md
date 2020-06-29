@@ -16,3 +16,9 @@ permalink: /writing/
 * [**Don't Speak for Me**](https://pitheadchapel.com/dont-speak-for-me/?fbclid=IwAR1HUHvPU81VvKCxmyA7071XwUJBOy2djdArFCKE2tG8eXyiitA2E2AIuLg) in *Pithead Chapel*
 
 # prose
+
+* [**How You Forget**](http://five2onemagazine.com/how-you-forgot-by-emily-yin/?fbclid=IwAR0VfcUcIk1xHh4tOCGFCxiII1xfkDpAznmFnWzAHu6eddCoLzmfI8BvLSI) in *FIVE 2 ONE Journal*
+* [**Notes on Cryptography**](https://bittermelonmag.com/emily-yin) in *Bitter Melon Mag*
+* [**Stochastics**](http://www.decompmagazine.com/stochastics.htm?fbclid=IwAR2JPIjk0lUgil7JpdsIiisUBRCDQGpKZPdb8Z2st_miWm-VmVIPg5R7Q6s) in *decomP magazinE*
+* [**All My Girls**](http://theaccountmagazine.com/article/yin-19?fbclid=IwAR0SPMlQEYN8snh2aXCuvF8U81wJCuEQEWby01wZYN924yGAAgWrqMRSse0) in *The Account: A Journal of Poetry, Prose, and Thought*
+* [**9 to 5**](https://www.crabfatmagazine.com/article/emily-yin/?fbclid=IwAR0tsVXQXE2LglF-zcqf3FjnSptse6JYUA_9jeutt2j6rONYSjCNDJuz9po) in *Crab Fat Magazine*
