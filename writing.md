@@ -1,5 +1,3 @@
----
-
-title: My Work
-
----
+layout: page
+title: "MY WRITING"
+permalink: /writing/
