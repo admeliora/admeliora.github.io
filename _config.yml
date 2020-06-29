@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Emily Yin
 baseurl: /admeliora.github.io
+markdown: kramdown
