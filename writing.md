@@ -17,6 +17,7 @@ permalink: /writing/
 * [**Too Many Bridges to Burn**](http://www.glass-poetry.com/journal/2019/october/yin-too.html?fbclid=IwAR1_C-YG5jD5YPIs8DWW1_mL3v9WuUhE_JDISMsVwSI9L8aZuPN1OxZKmrY) in *Glass: A Journal of Poetry*
 * [**Lessons on Longing**]() in *Asian American Writers' Workshop (The Margins)*
 * [**The Only Story**](http://www.juked.com/2020/06/emily-yin-the-only-story.asp) in *Juked*
+* [**Tesler's Theorem** and **You Came To Everything**](http://www.birdfeastmagazine.com/fifteen/yin/) in *Birdfeast*
 
 # creative nonfiction
 
