@@ -15,7 +15,7 @@ permalink: /writing/
 * [**Spangled**](https://connotationpress.com/poetry/3327-emily-yin-poetry?fbclid=IwAR2HzTiW7e7fddK6tWgVvwR70_IXPvKOjgu8aTPwKdCITg4kldvEn01kLxY) in *Connotation Press*
 * [**Vanishing Point**](https://www.yespoetry.com/news/emily-yin?fbclid=IwAR2KxsjRSNAnT1KUUa2RzBg59e65NfcK55bwef-aw5OJuHjSDkajOxHfVcs) in *Yes, Poetry*
 * [**Too Many Bridges to Burn**](http://www.glass-poetry.com/journal/2019/october/yin-too.html?fbclid=IwAR1_C-YG5jD5YPIs8DWW1_mL3v9WuUhE_JDISMsVwSI9L8aZuPN1OxZKmrY) in *Glass: A Journal of Poetry*
-* [**Lessons on Longing**]() in *Asian American Writers' Workshop (The Margins)*
+* [**Lessons on Longing**](https://aaww.org/lessons-on-longing/) in *Asian American Writers' Workshop (The Margins)*
 * [**The Only Story**](http://www.juked.com/2020/06/emily-yin-the-only-story.asp) in *Juked*
 * [**Tesler's Theorem** and **You Came To Everything**](http://www.birdfeastmagazine.com/fifteen/yin/) in *Birdfeast*
 
