@@ -18,6 +18,8 @@ permalink: /writing/
 * [**Lessons on Longing**](https://aaww.org/lessons-on-longing/) in *Asian American Writers' Workshop (The Margins)*
 * [**The Only Story**](http://www.juked.com/2020/06/emily-yin-the-only-story.asp) in *Juked*
 * [**Tesler's Theorem** and **You Came To Everything**](http://www.birdfeastmagazine.com/fifteen/yin/) in *Birdfeast*
+* [**What Mothers Know** and **I Wish I Could Shake Off My Sadness**] *forthcoming from diode poetry journal*
+* [**Cardiac MRI**] *forthcoming from The Journal*
 
 # creative nonfiction
 
