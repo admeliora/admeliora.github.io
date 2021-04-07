@@ -19,7 +19,6 @@ permalink: /writing/
 * [**The Only Story**](http://www.juked.com/2020/06/emily-yin-the-only-story.asp) in *Juked*
 * [**Tesler's Theorem** and **You Came To Everything**](http://www.birdfeastmagazine.com/fifteen/yin/) in *Birdfeast*
 * [**What Mothers Know** and **I Wish I Could Shake Off My Sadness**](http://diodepoetry.com/yin_emily/?fbclid=IwAR3aUW-RRa66BnI5FwqyqVLBCapCh6L0wM2MsTosMQhLYmpfdPhfm2wRlno) in *diode poetry journal*
-* **Cardiac MRI** forthcoming from *The Journal*
 
 # creative nonfiction
 
