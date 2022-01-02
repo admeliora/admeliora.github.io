@@ -1,3 +1,10 @@
+---
+
+layout: default
+title: "Home"
+permalink: /home/
+
+---
 # about me 
 
 I'm Emily, a software engineer moonlighting as a poet. Find my work in *The Indiana Review Online*, *The Asian American Writers' Workshop*, *diode poetry journal*, and *The Journal*, among others.
