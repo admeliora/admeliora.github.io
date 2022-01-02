@@ -2,7 +2,7 @@
 
 layout: default
 title: "Home"
-permalink: /home/
+permalink: /index/
 
 ---
 # about me 
